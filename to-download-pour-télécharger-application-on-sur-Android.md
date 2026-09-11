@@ -1,4 +1,10 @@
-[Alternative link, to download the app alpha release on Android phones.<hr>Lien alternatif, pour télécharger l'application en version alpha, sur les téléphones avec Android.](https://drive.google.com/file/d/1fTdCjXH3XydBSq85nptxDHt1himwTreK/view?usp=sharing)
+ <a href="https://drive.google.com/file/d/1fTdCjXH3XydBSq85nptxDHt1himwTreK/view?usp=sharing">
+    Alternative link, to download the app alpha release on Android phones.
+</a>
+<br><br>
+<a href="https://drive.google.com/file/d/1fTdCjXH3XydBSq85nptxDHt1himwTreK/view?usp=sharing">
+    Lien alternatif, pour télécharger l'application en version alpha, sur les téléphones avec Android.
+</a>
 
 <br>
 <hr>
