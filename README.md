@@ -2,20 +2,13 @@
 # Journeyers project: alpha releases 
 
 ## Android: apk file install
-[You can start downloading the apk](https://github.com/jlmacle/journeyers_releases/blob/main/app-alpha-release.apk) by clicking on the "Download raw file" icon.<br>
-You might have to wait a while before being asked where to save the file.<br>
-
-Assuming that you moved the file on Android using USB, I was able to install the apk, from the "Files" app, with:<br> 
-"3 dots", "Select", "3 dots", "Open with", "Package installer".
+You might be able to install the apk file by clicking on the link in the md file, as was feasible to do on a phone without GitHub application.
 <br>
 <br>
-Alpha releases for other systems are not planned for constraints reasons.
-<br> [Context analysis: preview video](https://github.com/jlmacle/journeyers_releases/blob/main/video.mp4). <br>
-[Group problem-solving: preview video](https://github.com/jlmacle/journeyers_releases/blob/main/video-Group_problem-solving.mp4). <br>
-<br>(The "Edit" and "Sharing" features are not yet implemented. Issues might remain with the other features.)
+In case of issue with the md file, you should be able to install the apk file as well, by downloading the html file, then by clicking on the download link as was feasible to do as well.
+<br>
 
-<p align="center">
-<img src="https://github.com/jlmacle/journeyers_releases/blob/main/screencopy.png" width="400">
-</p>
+Alpha releases for other systems are planned later on (that might not be feasible for all systems).
+
 
 
