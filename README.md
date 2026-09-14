@@ -16,7 +16,7 @@ Alpha releases for other systems are planned later on (that might not be feasibl
 
 Il est possible d'installer le fichier APK en cliquant sur l'un des liens présents dans le fichier .md, ce qui était possible à faire sur un téléphone sans avoir l'application GitHub installée.
 <br> <br> 
-En cas de problème avec le fichier .md, vous devriez pouvoir installer le fichier APK également, en téléchargeant et ouvrant le fichier HTML, 
+En cas de problème avec le fichier .md, vous devriez pouvoir installer le fichier APK également, en téléchargeant et en ouvrant le fichier HTML, 
 puis en cliquant sur l'un des liens de téléchargement, comme cela a également été possible. 
 <br> <br> 
 Les versions alpha pour les autres systèmes sont prévues ultérieurement (ce qui pourrait ne pas être réalisable pour tous les systèmes).
